@@ -4,7 +4,7 @@ function displayErrorSong() {
     if (
       (userName.value === "BANANA" && password.value === "3333") ||
       (userName.value === "ROBONI" && password.value === "4884") ||
-      (userName.value === "BBORO" && password.value === "1000")
+      (userName.value === "BBORO" && password.value === "1040")
     ) {
       document.body.style.background = "url(cons.jpg)";
       document.body.style.backgroundSize = "cover";
